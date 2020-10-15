@@ -1,0 +1,10 @@
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\bin\Debug\AndengradslommeregnerV2.exe.config
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\bin\Debug\AndengradslommeregnerV2.exe
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\bin\Debug\AndengradslommeregnerV2.pdb
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\obj\Debug\AndengradslommeregnerV2.Andengradslommeregner.resources
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\obj\Debug\AndengradslommeregnerV2.Properties.Resources.resources
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\obj\Debug\AndengradslommeregnerV2.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\obj\Debug\AndengradslommeregnerV2.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\obj\Debug\AndengradslommeregnerV2.exe
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\obj\Debug\AndengradslommeregnerV2.pdb
+C:\Users\Patrick\source\repos\AndengradslommeregnerV2\AndengradslommeregnerV2\obj\Debug\AndengradslommeregnerV2.csprojAssemblyReference.cache
